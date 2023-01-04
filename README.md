@@ -6,7 +6,7 @@ This is the DataHarmonizer spreadsheet web application bundled with pathogen gen
 
 1) Go to [Releases](https://github.com/cidgoh/pathogen-genomics-package/releases) and download the latest package.
 2) Unzip the package.
-3) Run simply by loading the `index.html` or `main.html` files in your local web browser.
+3) Run by loading the `index.html` or `main.html` files in your local web browser.
 
 ## Select Template
 
