@@ -40,13 +40,6 @@
  */
 
 /*!
- * https://github.com/Starcounter-Jack/JSON-Patch
- * json-patch-duplex.js version: 0.5.7
- * (c) 2013 Joachim Wester
- * MIT license
- */
-
-/*!
  * jQuery JavaScript Library v3.5.1
  * https://jquery.com/
  *
@@ -60,17 +53,11 @@
  * Date: 2020-05-04T22:49Z
  */
 
+/*! @license DOMPurify 2.4.7 | (c) Cure53 and other contributors | Released under the Apache license 2.0 and Mozilla Public License 2.0 | github.com/cure53/DOMPurify/blob/2.4.7/LICENSE */
+
 /*! sheetjs (C) 2013-present SheetJS -- http://sheetjs.com */
 
 /*! xlsx.js (C) 2013-present SheetJS -- http://sheetjs.com */
-
-/**
- * @preserve
- * Authors: Handsoncode
- * Last updated: Nov 15, 2017
- *
- * Description: Definition file for English - United States language-country.
- */
 
 /**!
  * @fileOverview Kickass library to create and place poppers near their reference elements.
@@ -96,3 +83,7 @@
  * OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
  * SOFTWARE.
  */
+
+//! moment.js
+
+//! moment.js locale configuration
