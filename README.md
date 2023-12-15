@@ -1,6 +1,6 @@
 # pathogen-genomics-package
 
-This is the DataHarmonizer spreadsheet web application bundled with pathogen genomics data entry and validation templates.  It includes templates for detailing **SARS-CoV-2 and Monkeypox** sample contextual data.  More infectious disease templates will be included in the comming year. Other organizations are adopting this version of DataHarmonizer for their own data management purposes.
+This is the DataHarmonizer spreadsheet web application bundled with pathogen genomics data entry and validation templates.  It includes templates for detailing **SARS-CoV-2 and Monkeypox sample contextual data, as well as draft Influenza and Wastewater specifications** .  More infectious disease templates will be included in the coming year. Other organizations are adopting this version of DataHarmonizer for their own data management purposes.
 
 ## Getting Started
 
