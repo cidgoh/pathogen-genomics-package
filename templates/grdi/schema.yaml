@@ -11021,8 +11021,8 @@ enums:
         text: Extended downtime between activities [GENEPIO:0100542]
       Fertilizer pre-treatment [GENEPIO:0100543]:
         text: Fertilizer pre-treatment [GENEPIO:0100543]
-      Genetic mutation [GENEPIO:0100544[:
-        text: Genetic mutation [GENEPIO:0100544[
+      Genetic mutation [GENEPIO:0100544]:
+        text: Genetic mutation [GENEPIO:0100544]
       Logistic slaughter [GENEPIO:0100545]:
         text: Logistic slaughter [GENEPIO:0100545]
       Microbial pre-treatment [GENEPIO:0100546]:
@@ -13276,8 +13276,8 @@ enums:
       Scallop [NCBITaxon:6566]:
         text: Scallop [NCBITaxon:6566]
         is_a: Shellfish [FOODON:03411433]
-      Shrimp [FOODON:03411237:
-        text: Shrimp [FOODON:03411237
+      Shrimp [FOODON:03411237]:
+        text: Shrimp [FOODON:03411237]
         is_a: Shellfish [FOODON:03411433]
   food_product_production_stream menu:
     name: food_product_production_stream menu
@@ -13605,8 +13605,8 @@ enums:
       Grower pig [FOODON:00003370]:
         text: Grower pig [FOODON:00003370]
         is_a: Pig (by age/production stage) (organizational term)
-      Nursing pig [FOODON:00004297 ]:
-        text: Nursing pig [FOODON:00004297 ]
+      Nursing pig [FOODON:00004297]:
+        text: Nursing pig [FOODON:00004297]
         is_a: Pig (by age/production stage) (organizational term)
       Pig [NCBITaxon:9823]:
         text: Pig [NCBITaxon:9823]
@@ -13669,8 +13669,8 @@ enums:
       Rooster [FOODON:03411714]:
         text: Rooster [FOODON:03411714]
         is_a: Poultry [FOODON:03411563]
-      Tom (Gobbler) [FOODON:00004304 ]:
-        text: Tom (Gobbler) [FOODON:00004304 ]
+      Tom (Gobbler) [FOODON:00004304]:
+        text: Tom (Gobbler) [FOODON:00004304]
         is_a: Poultry [FOODON:03411563]
       Turkey [NCBITaxon:9103]:
         text: Turkey [NCBITaxon:9103]
@@ -13945,8 +13945,8 @@ enums:
         is_a: Pantoea [NCBITaxon:53335]
       Photobacterium [NCBITaxon:657]:
         text: Photobacterium [NCBITaxon:657]
-      Photobacterium indicum[NCBITaxon:81447]:
-        text: Photobacterium indicum[NCBITaxon:81447]
+      Photobacterium indicum [NCBITaxon:81447]:
+        text: Photobacterium indicum [NCBITaxon:81447]
         is_a: Photobacterium [NCBITaxon:657]
       Photobacterium sp. [NCBITaxon:660]:
         text: Photobacterium sp. [NCBITaxon:660]
