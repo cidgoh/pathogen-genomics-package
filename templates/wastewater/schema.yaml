@@ -4709,7 +4709,7 @@ slots:
     slot_uri: GENEPIO:0001447
     range: date
     todos:
-    - '>={sample collection date}'
+    - '>={sample_collection_date}'
     examples:
     - value: '2020-06-22'
   library_id:
@@ -9769,6 +9769,8 @@ enums:
         text: Illumina [GENEPIO:0100105]
         description: A DNA sequencer manufactured by the Illumina corporation.
         meaning: GENEPIO:0100105
+        exact_mappings:
+        - NCBI_SRA:ILLUMINA
       Illumina Genome Analyzer [GENEPIO:0100106]:
         text: Illumina Genome Analyzer [GENEPIO:0100106]
         description: A DNA sequencer manufactured by Solexa as one of its first sequencer
