@@ -15,3 +15,17 @@ The default template loaded is the "CanCOGeN Covid-19" template. To change the s
 ![change template](./images/changeTemplate.gif)
 
 DataHarmonizer and the pathogen LinkML schemas provided here ar maintained in the https://github.com/cidgoh/DataHarmonizer/ repository.
+
+## Contextual Data Specification Packages
+
+Several templates within the Pathogen Genomics Package are components of broader specification packages. Where applicable, these packages are listed below for reference. These packages includes reference guides, SOPs, and manuscript citations when applicable. If you believe a relevant package is missing, please submit an issue via [GitHub](https://github.com/cidgoh/pathogen-genomics-package/issues).
+
+- AMBR Package: https://github.com/cidgoh/AMBR_Contextual_data_Specification
+- B2B2B2 Package: https://github.com/cidgoh/B2B2B2_Contextual_Data_Specification
+- CanCOGeN SARS-CoV-2 Package: https://github.com/cidgoh/CanCOGeN_Contextual_Data_Specification
+- GRDI-AMR Package: https://github.com/cidgoh/GRDI_AMR_One_Health
+- HPAI Package: https://github.com/cidgoh/HPAI_Contextual_Data_Specification
+- MPox Package: https://github.com/cidgoh/MPox_Contextual_Data_Specification
+- PHA4GE Minimal Pathogen Agnostic Package: https://github.com/pha4ge/minimal-pathogen-agnostic-contextual-data-specification
+- PHA4GE SARS-CoV-2 Package: https://github.com/pha4ge/SARS-CoV-2-Contextual-Data-Specification
+- PHA4GE Wastewater Package: https://github.com/pha4ge/Wastewater_Contextual_Data_Specification
