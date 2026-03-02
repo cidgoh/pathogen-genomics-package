@@ -37,6 +37,8 @@ The default template loaded is the "CanCOGeN Covid-19" template. To change the s
 #### The DataHarmonizer - Getting Started: Features (7:55)
 [<img width="1920" height="1080" alt="The DataHarmonizer - Getting Started: Features" src="https://github.com/user-attachments/assets/1b016cdc-c335-4f3a-9e6e-cadda0e73891" />](https://youtu.be/ncI-D555oFI)
 
+Many of these features are also described in the ["DataHarmonizer Getting Started"](https://github.com/cidgoh/pathogen-genomics-package/wiki/DataHarmonizer-Getting-Started) wiki page.
+
 ## Support
 If you have any ideas for improving the application, or have encountered any problems running the application, [please open an issue for discussion](https://github.com/cidgoh/pathogen-genomics-package/issues).
 
