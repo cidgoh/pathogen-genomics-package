@@ -14,7 +14,7 @@ The default template loaded is the "CanCOGeN Covid-19" template. To change the s
 
 ![change template](./images/changeTemplate.gif)
 
-DataHarmonizer and the pathogen LinkML schemas provided here ar maintained in the https://github.com/cidgoh/DataHarmonizer/ repository.
+DataHarmonizer and the pathogen LinkML schemas provided here are maintained in the https://github.com/cidgoh/DataHarmonizer/ repository.
 
 ## Contextual Data Specification Packages
 
